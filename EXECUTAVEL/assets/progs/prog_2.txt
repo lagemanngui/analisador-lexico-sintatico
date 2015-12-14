@@ -1,0 +1,11 @@
+col = 32
+li = col*2 + 3
+z = col > li
+x = io.read()
+if z{
+io.write("z is true")
+}
+else{
+z = !z
+io.write("z is true")
+}

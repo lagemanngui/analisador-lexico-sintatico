@@ -1,0 +1,5 @@
+local var
+var = 4
+if var == 4 {
+io.write("var e ", var)
+}
